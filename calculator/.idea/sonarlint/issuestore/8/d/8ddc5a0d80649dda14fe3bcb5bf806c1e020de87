@@ -1,0 +1,10 @@
+
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(όύ§ΐψÿÿÿÿ8γι‹Ϋ–-
+Fsquid:S1148&"#Use a logger to log this exception.(ψψÿÿÿÿ8‰ώέΩ–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Α‹ªδ8γι‹Ϋ–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ψ™¥β8γι‹Ϋ–-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ώή\8γι‹Ϋ–-
